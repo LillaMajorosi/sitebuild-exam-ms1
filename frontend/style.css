@@ -1,0 +1,43 @@
+body {
+  width: 100%;
+  min-width: 1200px;
+}
+
+.first-section {
+  background-color: #efd592;
+  height: 50vh;
+  position: relative;
+}
+
+.first-section .first-button {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  background-color: #242d38;
+}
+
+.second-section {
+  background-color: #4343f9;
+  height: 50vh;
+  position: relative;
+}
+
+.second-section .third-button {
+  width: 200px;
+  height: 60px;
+  border-radius: 50%;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  background-color: #242d38;
+}
+/*# sourceMappingURL=style.css.map */
